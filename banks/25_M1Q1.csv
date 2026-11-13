@@ -80,7 +80,7 @@ Geography,"• Trả lời bằng tiếng Việt; số viết bằng chữ số.
 • Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Trong bốn khu vực đồi núi: Đông Bắc, Tây Bắc, Trường Sơn Bắc, Trường Sơn Nam, khu vực nào có địa hình cac-xtơ chiếm diện tích lớn nhất?",,Đông Bắc,,,
 General/Social,"• Trả lời bằng tiếng Việt; số viết bằng chữ số.
 • Không ngăn hàng nghìn; thập phân dùng dấu chấm; ngày theo ngày/tháng/năm.
-• Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Trong Excel, để đếm các ô có chứa dữ liệu dạng số trong phạm vi dữ liệu, ta dùng hàm gì?",,C O U N T,,,
+• Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Trong Excel, để đếm các ô có chứa dữ liệu dạng số trong phạm vi dữ liệu, ta dùng hàm gì?",,Count,,,
 Physics,"• Số viết bằng chữ số; không ngăn hàng nghìn; thập phân dùng dấu chấm.
 • Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.
 • Câu chữ: trả lời ngắn gọn bằng tiếng Việt.","Xét về mặt vật lí, vị trí các nốt trên khuông nhạc trong một bản nhạc kí cho ta biết giá trị đại lượng nào của âm tương ứng: biên độ sóng, bước sóng, tần số?",,Tần số,,,
@@ -94,7 +94,7 @@ Art/Sports,"• Trả lời bằng tiếng Việt; số viết bằng chữ số
 • Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.",Ca khúc thiếu nhi nào đã được nhạc sĩ Phạm Tuyên sáng tác trong một chuyến đi thực tế tại Đắk Lắk vào năm 1983?,,Chú voi con ở Bản Đôn,,,
 General/Social,"• Trả lời bằng tiếng Việt; số viết bằng chữ số.
 • Không ngăn hàng nghìn; thập phân dùng dấu chấm; ngày theo ngày/tháng/năm.
-• Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Tiếng Ả Rập, tiếng Trung, tiếng Anh, tiếng Pháp, tiếng Nga, tiếng Tây Ban Nha là sáu ... chính thức của Liên Hợp Quốc.",,N G Ô N Ngữ,,,
+• Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Tiếng Ả Rập, tiếng Trung, tiếng Anh, tiếng Pháp, tiếng Nga, tiếng Tây Ban Nha là sáu ... chính thức của Liên Hợp Quốc.",,Ngôn Ngữ,,,
 General/Social,"• Trả lời bằng tiếng Việt; số viết bằng chữ số.
 • Không ngăn hàng nghìn; thập phân dùng dấu chấm; ngày theo ngày/tháng/năm.
 • Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Ngày 21/6.2024, Hội đồng EU đã thông qua một đạo luật lần đầu tiên xuất hiện trên thế giới, thiết lập khuôn khổ pháp lý và quy định cho một đối tượng đặc biệt, chỉ có ở thời đại công nghệ. Đối tượng đó là gì?",,A I,,,
@@ -102,7 +102,7 @@ Math,"• Số viết bằng chữ số; không ngăn hàng nghìn; thập phân
 • Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.",Tổng của một dãy gồm 7 số chẵn liên tiếp là 14112. Hỏi số lớn nhất của dãy có giá trị là bao nhiêu?,,2022,,,
 Art/Sports,"• Trả lời bằng tiếng Việt; số viết bằng chữ số.
 • Không ngăn hàng nghìn; thập phân dùng dấu chấm; ngày theo ngày/tháng/năm.
-• Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Hãy tìm đúng từ để có được câu khẩu hiệu của Olympic: ""... hơn, Cao hơn, Mạnh hơn – Cùng nhau"".",,N H A N H,,,
+• Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.","Hãy tìm đúng từ để có được câu khẩu hiệu của Olympic: ""... hơn, Cao hơn, Mạnh hơn – Cùng nhau"".",,Nhanh,,,
 General/Social,"• Trả lời bằng tiếng Việt; số viết bằng chữ số.
 • Không ngăn hàng nghìn; thập phân dùng dấu chấm; ngày theo ngày/tháng/năm.
 • Nếu đề đã nêu đơn vị, chỉ nhập số; nếu chưa nêu, ghi liền đơn vị với số.",Thuật ngữ nào để chỉ một chương trình trí tuệ nhân tạo được thiết kế nhằm mô phỏng lại các cuộc trò chuyện với người dùng thông qua nền tảng internet?,,Chatbot,,,
